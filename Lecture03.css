@@ -1,0 +1,18 @@
+a:link {
+    background-color: transparent;
+    color: rgb(15, 172, 15);
+}
+a:hover{
+    background-color: rgb(223, 150, 150);
+    color: blueviolet
+    
+}
+a:visited{
+    color: rgb(111, 0, 255);
+    text-decoration: underline;
+}
+p{
+    color: blueviolet;
+    border: 1px double red;
+}
+body{background-color: antiquewhite;}
